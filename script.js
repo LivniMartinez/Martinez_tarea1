@@ -74,3 +74,8 @@
         const apellido = 'Martinez'
         
         console.log(nombre + ' ' + apellido);
+
+    //Array
+
+    let array = [1, 2, 3, 'Livni'];
+    console.log(array);
