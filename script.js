@@ -13,10 +13,10 @@
         console.log(boolf);
       
     //3. Numerico
-        number = 83;
+        let number = 83;
         console.log(number);
 
-        number2 = 3.33;
+        let number2 = 3.33;
         console.log(number2);
 
     //4. Cadena de texto
